@@ -1,4 +1,4 @@
-///----------( Created By Denis Putra )----------\\\
+///----------( Created By BoT-Chromosome )----------\\\
 
 /**
 * Note:
@@ -946,7 +946,7 @@ reply('http://youtube.com/dcodedenpa')
 			num = await fetchJson(`https://api.telnyx.com/anonymous/v2/number_lookup/${senderNumber}`, {method: 'get'})
        menu = `┌───「 \`\`\`${NamaBot}\`\`\` 」
 │
-├ _Creator : @${dtod.split('@')[0]}_
+├ _Creator : @${6281318759394}_
 ├ _Battery : ${baterai.battery}_
 ├ _Mode : ${publik ? 'Public' : 'Self'}_
 ├ _Total Hit : ${cmhit.length}_
